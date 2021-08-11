@@ -26,7 +26,9 @@ Once the card has been prepared you will be asked if you would like to Clone the
 # Clone / Upgrade an existing setup
 for example, you can use this tool to copy data from a smaller SD onto a larger SD (Upgrade)
 
-If you select YES and decide to clone/upgrade your current system setup you will need to prepare the Vita itself for the transfer.
+If you select YES and decide to clone/upgrade your current system setup you will need to prepare the Vita itself for the transfer. Unless the SD card is accessible with a 2nd Card reader.
+To use the Vita as a card reader, do the following..
+
 - Launch the VitaShell app
 - Press the Start button and make sure USB Mode is set to the main storage,
     - Memory Card if your using the Sony memory
